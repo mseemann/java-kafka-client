@@ -1,4 +1,5 @@
 [![Build Status][ci-img]][ci] [![Coverage Status][cov-img]][cov] [![Released Version][maven-img]][maven] [![Apache-2.0 license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmseemann%2Fjava-kafka-client.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmseemann%2Fjava-kafka-client?ref=badge_shield)
 
 
 # OpenTracing Apache Kafka Client Instrumentation
@@ -266,3 +267,6 @@ spanNameProvider be provided:
 [cov]: https://coveralls.io/github/opentracing-contrib/java-kafka-client?branch=master
 [maven-img]: https://img.shields.io/maven-central/v/io.opentracing.contrib/opentracing-kafka-client.svg
 [maven]: http://search.maven.org/#search%7Cga%7C1%7Copentracing-kafka-client
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmseemann%2Fjava-kafka-client.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmseemann%2Fjava-kafka-client?ref=badge_large)
